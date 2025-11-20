@@ -84,7 +84,7 @@ desde el **análisis funcional y la arquitectura**, hasta el **desarrollo fronte
 - Diseño de **arquitecturas escalables y mantenibles**, desde monolitos hasta microservicios.  
 - Creación de **modelos de datos relacionales y no relacionales**.  
 - Elaboración de **diagramas funcionales, de arquitectura y despliegue** usando **Draw.io** y **Enterprise Architect**.  
-- Aplicación de **patrones arquitectónicos** (Clean Architecture, DDD, CQRS, MVC).  
+- Aplicación de **patrones arquitectónicos** (Clean Architecture, DDD, MVC).  
 
 ---
 
