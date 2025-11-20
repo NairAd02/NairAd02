@@ -40,7 +40,7 @@ desde el **análisis funcional y la arquitectura**, hasta el **desarrollo fronte
 - Manejo de **paginado, filtrado, flujos de negocio complejos y relaciones de datos**.
 - Autenticación con **JWT**, roles, guardas y seguridad avanzada.  
 - Envío de correos con **Nodemailer**, documentación con **Swagger**, y manejo de **Cron Jobs**.  
-- Patrones aplicados: **Repository, CQRS, DDD, Event-Driven**.  
+- Patrones aplicados: **Repository, DDD, Event-Driven**.  
 
 ---
 
