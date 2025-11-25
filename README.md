@@ -11,7 +11,7 @@ desde el **análisis funcional y la arquitectura**, hasta el **desarrollo fronte
 
 💡 Creo en el **diseño inteligente y la simplicidad del código**.  
 💻 Me encanta construir sistemas escalables, intuitivos y mantenibles.  
-⚙️ Disfruto tanto del **frontend visual** como de la **arquitectura y lógica del backend**.  
+⚙️ Disfruto tanto del **frontend** como de la **arquitectura y lógica del backend**.  
 ☁️ Tengo experiencia desplegando aplicaciones reales en **entornos productivos con Docker y Nginx**.  
 📘 Siempre busco aprender nuevas tecnologías y compartir conocimiento.
 
