@@ -93,7 +93,7 @@ desde el **análisis funcional y la arquitectura**, hasta el **desarrollo fronte
 | Lenguaje | Nivel | Áreas de dominio |
 |-----------|--------|------------------|
 | **JavaScript / TypeScript** | ⭐⭐⭐⭐⭐ | Fullstack (Next.js, Nest.js), asincronía, tipado, principios SOLID |
-| **Java** | ⭐⭐⭐⭐ | POO avanzada, estructuras de datos, Swing, ficheros, patrones de diseño |
+| **Java** | ⭐⭐⭐⭐ | POO avanzada, estructuras de datos, Java Swing, ficheros, patrones de diseño |
 | **C / C++** | ⭐⭐⭐ | Memoria dinámica, estructuras de datos, algoritmización, bajo nivel |
 
 En todos ellos aplico **principios SOLID**, **clean code** y **patrones de diseño** para crear software **robusto, escalable y legible**.
