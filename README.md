@@ -33,7 +33,7 @@ desde el **análisis funcional y la arquitectura**, hasta el **desarrollo fronte
 
 ## ⚙️ Backend Skills  
 
-- Desarrollo backend con **Nest.js**, aplicando principios SOLID y arquitectura modular.  
+- Desarrollo backend con **Nest.js**, siguiendo los principios SOLID y aplicando arquitectura modular.  
 - Implementación de **microservicios** y comunicación entre ellos (HTTP, eventos, colas).  
 - Uso de **TypeORM / Prisma** con **PostgreSQL, MySQL y MongoDB**.
 - Uso de **Minio** el para almacenamiento de archivos .
