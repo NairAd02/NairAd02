@@ -13,7 +13,7 @@ desde el **análisis funcional y la arquitectura**, hasta el **desarrollo fronte
 💻 Me encanta construir sistemas escalables, intuitivos y mantenibles.  
 ⚙️ Disfruto tanto del **frontend** como de la **arquitectura y lógica del backend**.  
 ☁️ Tengo experiencia desplegando aplicaciones reales en **entornos productivos con Docker y Nginx**.  
-📘 Siempre busco aprender nuevas tecnologías y compartir conocimiento.
+📘 Me gusta compartir conocimiento.
 
 ---
 
