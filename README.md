@@ -39,8 +39,7 @@ desde el **análisis funcional y la arquitectura**, hasta el **desarrollo fronte
 - Uso de **Minio** el para almacenamiento de archivos .
 - Manejo de **paginado, filtrado, flujos de negocio complejos y relaciones de datos**.
 - Autenticación con **JWT**, roles, guardas y seguridad avanzada.  
-- Envío de correos con **Nodemailer**, documentación con **Swagger**, y manejo de **Cron Jobs**.  
-- Patrones aplicados: **Repository, DDD**.  
+- Envío de correos con **Nodemailer**, documentación con **Swagger**, y manejo de **Cron Jobs**.
 
 ---
 
