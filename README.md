@@ -21,7 +21,7 @@ desde el **análisis funcional y la arquitectura**, hasta el **desarrollo fronte
 
 - Creación de **interfaces intuitivas, responsivas y usables**.  
 - Precisión al **replicar diseños desde Figma o herramientas similares**.  
-- Integración eficiente con APIs (REST / GraphQL).  
+- Integración eficiente con APIs (REST).  
 - Uso avanzado de **Next.js**:
   - App Router, **rutas paralelas y modales anidados**.  
   - **Server Actions**, SEO optimizado y renderizado híbrido (SSR/SSG/ISR).  
