@@ -35,7 +35,7 @@ desde el **análisis funcional y la arquitectura**, hasta el **desarrollo fronte
 
 - Desarrollo backend con **Nest.js**, siguiendo los principios SOLID y aplicando arquitectura modular.  
 - Implementación de **microservicios** y comunicación entre ellos.  
-- Uso de **TypeORM / Prisma** con **PostgreSQL, MySQL y MongoDB**.
+- Uso de **TypeORM / Prisma / Mongoose** con **PostgreSQL, MySQL y MongoDB**.
 - Uso de **Minio** el para almacenamiento de archivos .
 - Manejo de **paginado, filtrado, flujos de negocio complejos y relaciones de datos**.
 - Autenticación con **JWT**, roles, guardas y seguridad avanzada.  
