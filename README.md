@@ -1,121 +1,122 @@
-# 👋 ¡Hola! Soy Adrian Suarez Padrón  
+# 👋 Hi! I'm Adrian Suarez Padrón  
 
 ### 🚀 Full-Cycle Software Architect | Full Stack Developer | DevOps Enthusiast  
 
-Soy un desarrollador apasionado por **diseñar, construir y desplegar soluciones completas**, cubriendo todo el ciclo de vida del software:  
-desde el **análisis funcional y la arquitectura**, hasta el **desarrollo frontend, backend y la puesta en producción**.
+I'm a developer passionate about **designing, building, and deploying complete solutions**, covering the entire software lifecycle:  
+from **functional analysis and architecture**, to **frontend and backend development and production deployment**.
 
 ---
 
-## 🧠 Sobre mí  
+## 🧠 About Me  
 
-💡 Creo en el **diseño inteligente y la simplicidad del código**.  
-💻 Me encanta construir sistemas escalables, intuitivos y mantenibles.  
-⚙️ Disfruto tanto del **frontend** como de la **arquitectura y lógica del backend**.  
-☁️ Tengo experiencia desplegando aplicaciones reales en **entornos productivos con Docker y Nginx**.  
-📘 Me gusta compartir conocimiento.
+💡 I believe in **smart design and code simplicity**.  
+💻 I love building scalable, intuitive, and maintainable systems.  
+⚙️ I enjoy both **frontend** work and **backend architecture and logic**.  
+☁️ I have experience deploying real applications in **production environments with Docker and Nginx**.  
+📘 I enjoy sharing knowledge.
 
 ---
 
 ## 🎨 Frontend Skills  
 
-- Creación de **interfaces intuitivas, responsivas y usables**.  
-- Precisión al **replicar diseños desde Figma o herramientas similares**.  
-- Integración eficiente con APIs (REST).  
-- Uso avanzado de **Next.js**:
-  - App Router, **rutas paralelas y modales anidados**.  
-  - **Server Actions**, SEO optimizado y renderizado híbrido (SSR/SSG/ISR).  
-  - **Patrón Container/Presentational** para separación lógica/visual.  
-  - Formularios con **React Hook Form + Zod**.  
-- Dominio de **React, TypeScript, Tailwind CSS** y buenas prácticas de componentes reutilizables.  
+- Building **intuitive, responsive, and user-friendly interfaces**.  
+- Pixel-perfect **replication of designs from Figma or similar tools**.  
+- Efficient integration with REST APIs.  
+- Advanced use of **Next.js**:
+  - App Router, **parallel routes and nested modals**.  
+  - **Server Actions**, optimized SEO and hybrid rendering (SSR/SSG/ISR).  
+  - **Container/Presentational pattern** for logic/visual separation.  
+  - Forms with **React Hook Form + Zod**.  
+- Proficiency in **React, TypeScript, Tailwind CSS** and best practices for reusable components.  
 
 ---
 
 ## ⚙️ Backend Skills  
 
-- Desarrollo backend con **Nest.js**, siguiendo los principios SOLID y aplicando arquitectura modular.  
-- Implementación de **microservicios** y comunicación entre ellos.  
-- Uso de **TypeORM / Prisma / Mongoose** con **PostgreSQL, MySQL y MongoDB**.
-- Uso de **Minio** el para almacenamiento de archivos .
-- Manejo de **paginado, filtrado, flujos de negocio complejos y relaciones de datos**.
-- Autenticación con **JWT**, roles, guardas y seguridad avanzada.  
-- Envío de correos con **Nodemailer**, documentación con **Swagger**, y manejo de **Cron Jobs**.
-- Integraciones y uso de **Supabase**.
----
-
-## 🐳 DevOps & Infra Skills  
-
-- Despliegue de proyectos reales en **VPS (Linux)** con ambientes **Dev / Prod**.  
-- Uso de **Docker y Docker Compose** para contenedorización y orquestación.  
-- Configuración de **Nginx como proxy inverso**, con integración de dominios y certificados SSL.  
-- **CI/CD con GitHub Actions**, automatizando build, test y deploy.  
-- Administración de servidores vía **SSH (MobaXterm)** y dominio de **comandos Linux**.  
-- Gestión de variables de entorno, seguridad y monitoreo básico.  
+- Backend development with **Nest.js**, following SOLID principles and applying modular architecture.  
+- Implementation of **microservices** and inter-service communication.  
+- Use of **TypeORM / Prisma / Mongoose** with **PostgreSQL, MySQL and MongoDB**.
+- Use of **Minio** for file storage.
+- Handling of **pagination, filtering, complex business flows and data relationships**.
+- Authentication with **JWT**, roles, guards and advanced security.  
+- Email delivery with **Nodemailer**, documentation with **Swagger**, and **Cron Job** management.
+- Integrations and use of **Supabase**.
 
 ---
 
-## 🧰 Herramientas del día a día  
+## 🐳 DevOps & Infrastructure Skills  
 
-- **VS Code / Cursor** → extensiones, snippets, configuración de entornos y uso de IA para acelerar mi flujo de trabajo.  
-- **Postman** → pruebas y automatización de APIs.  
-- **pgAdmin / MySQL Workbench / MongoDB Compass** → administración y consultas en bases de datos.  
-- **Eclipse IDE** → desarrollo Java y proyectos de escritorio con Swing.  
-- **MobaXterm** → conexión SSH y gestión remota de servidores.  
-- **V0** → apoyo visual y generación rápida de interfaces cuando no existe diseño previo.  
-- **Git & GitHub** → versionado, GitHub Actions y colaboración profesional.  
-
----
-
-## 💻 Aplicaciones de Escritorio  
-
-- Desarrollo de **aplicaciones nativas en Java Swing** con interfaces dinámicas e interactivas.  
-- Manejo de **ficheros para almacenamiento y comunicación entre programas**.  
-- Aplicación de **estructuras de datos y cálculos geométricos** para herramientas de diagramación educativa.  
-- Integración con bases de datos locales (MySQL / PostgreSQL).  
+- Deployment of real projects on **VPS (Linux)** with **Dev / Prod** environments.  
+- Use of **Docker and Docker Compose** for containerization and orchestration.  
+- Configuration of **Nginx as a reverse proxy**, with domain and SSL certificate integration.  
+- **CI/CD with GitHub Actions**, automating build, test and deploy.  
+- Server administration via **SSH (MobaXterm)** and proficiency in **Linux commands**.  
+- Management of environment variables, security and basic monitoring.  
 
 ---
 
-## 🧩 Arquitectura & Diseño de Software  
+## 🧰 Everyday Tools  
 
-**Rol:** *Full-Cycle Software Architect*  
-
-- Análisis y documentación de **requisitos funcionales y técnicos**.  
-- Diseño de **arquitecturas escalables y mantenibles**, desde monolitos hasta microservicios.  
-- Creación de **modelos de datos relacionales y no relacionales**.  
-- Elaboración de **diagramas funcionales, de arquitectura y despliegue** usando **Draw.io** y **Enterprise Architect**.  
-- Aplicación de **patrones arquitectónicos** (Clean Architecture, DDD, MVC).  
+- **VS Code / Cursor** → extensions, snippets, environment configuration and AI usage to accelerate my workflow.  
+- **Postman** → API testing and automation.  
+- **pgAdmin / MySQL Workbench / MongoDB Compass** → database administration and querying.  
+- **Eclipse IDE** → Java development and desktop projects with Swing.  
+- **MobaXterm** → SSH connection and remote server management.  
+- **V0** → visual support and rapid UI generation when no prior design exists.  
+- **Git & GitHub** → versioning, GitHub Actions and professional collaboration.  
 
 ---
 
-## 🧠 Lenguajes de Programación  
+## 💻 Desktop Applications  
 
-| Lenguaje | Nivel | Áreas de dominio |
+- Development of **native Java Swing applications** with dynamic and interactive interfaces.  
+- Handling of **files for storage and inter-program communication**.  
+- Application of **data structures and geometric calculations** for educational diagramming tools.  
+- Integration with local databases (MySQL / PostgreSQL).  
+
+---
+
+## 🧩 Architecture & Software Design  
+
+**Role:** *Full-Cycle Software Architect*  
+
+- Analysis and documentation of **functional and technical requirements**.  
+- Design of **scalable and maintainable architectures**, from monoliths to microservices.  
+- Creation of **relational and non-relational data models**.  
+- Elaboration of **functional, architecture and deployment diagrams** using **Draw.io** and **Enterprise Architect**.  
+- Application of **architectural patterns** (Clean Architecture, DDD, MVC).  
+
+---
+
+## 🧠 Programming Languages  
+
+| Language | Level | Areas of Expertise |
 |-----------|--------|------------------|
-| **JavaScript / TypeScript** | ⭐⭐⭐⭐⭐ | Fullstack (Next.js, Nest.js), asincronía, tipado, principios SOLID |
-| **Java** | ⭐⭐⭐⭐ | POO avanzada, estructuras de datos, Java Swing, ficheros, patrones de diseño |
-| **C / C++** | ⭐⭐⭐ | Memoria dinámica, estructuras de datos, algoritmización, bajo nivel |
+| **JavaScript / TypeScript** | ⭐⭐⭐⭐⭐ | Fullstack (Next.js, Nest.js), async, typing, SOLID principles |
+| **Java** | ⭐⭐⭐⭐ | Advanced OOP, data structures, Java Swing, file handling, design patterns |
+| **C / C++** | ⭐⭐⭐ | Dynamic memory, data structures, algorithmization, low-level |
 
-En todos ellos aplico **principios SOLID**, **clean code** y **patrones de diseño** para crear software **robusto, escalable y legible**.
-
----
-
-## 🧩 Filosofía de trabajo  
-
-> “Un buen software no solo funciona, **también se entiende, se escala y se disfruta construirlo**.”
-
-- ✨ Busco **elegancia y simplicidad en la arquitectura**.  
-- 🧱 Creo en los fundamentos sólidos antes que en los atajos.  
-- 🤝 Colaboro con mentalidad de equipo, comunicación clara y documentación constante.  
-- 🔁 Siempre estoy iterando, aprendiendo y mejorando cada línea de código.
+In all of them I apply **SOLID principles**, **clean code** and **design patterns** to create **robust, scalable and readable software**.
 
 ---
 
-## 📫 Conectemos  
+## 🧩 Work Philosophy  
 
-🌐 [Portafolio](https://asura-portfolio.vercel.app/)  
+> "Good software doesn't just work — **it's also understandable, scalable, and enjoyable to build.**"
+
+- ✨ I seek **elegance and simplicity in architecture**.  
+- 🧱 I believe in solid fundamentals before shortcuts.  
+- 🤝 I collaborate with a team mindset, clear communication and consistent documentation.  
+- 🔁 I'm always iterating, learning and improving every line of code.
+
+---
+
+## 📫 Let's Connect  
+
+🌐 [Portfolio](https://asura-portfolio.vercel.app/)  
 📧 **adrian.suarez.alphen@gmail.com**  
 
 ---
 
-⭐ *Si te interesa colaborar o simplemente charlar sobre arquitectura, código limpio o desarrollo full-stack, ¡contáctame!* 🚀
+⭐ *If you're interested in collaborating or just want to chat about architecture, clean code or full-stack development, reach out!* 🚀
 
