@@ -27,7 +27,8 @@ from **functional analysis and architecture**, to **frontend and backend develop
   - **Server Actions**, optimized SEO and hybrid rendering (SSR/SSG/ISR).  
   - **Container/Presentational pattern** for logic/visual separation.  
   - Forms with **React Hook Form + Zod**.  
-- Proficiency in **React, TypeScript, Tailwind CSS** and best practices for reusable components.  
+- Proficiency in **React, TypeScript, Tailwind CSS** and best practices for reusable components.
+- Authentication with **Better-Auth**.  
 
 ---
 
