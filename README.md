@@ -37,6 +37,7 @@ from **functional analysis and architecture**, to **frontend and backend develop
 - Backend development with **Nest.js**, following SOLID principles and applying modular architecture.  
 - Implementation of **microservices** and inter-service communication.  
 - Use of **TypeORM / Prisma / Mongoose** with **PostgreSQL, MySQL and MongoDB**.
+- Use **Redis** for performance optimization, including caching strategies, rate limiting, and session management to improve system efficiency and scalability.
 - Use of **Minio** for file storage.
 - Handling of **pagination, filtering, complex business flows and data relationships**.
 - Authentication with **JWT**, roles, guards and advanced security.  
