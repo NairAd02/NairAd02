@@ -43,6 +43,7 @@ from **functional analysis and architecture**, to **frontend and backend develop
 - Authentication with **JWT**, roles, guards and advanced security.  
 - Email delivery with **Nodemailer**, documentation with **Swagger**, and **Cron Job** management.
 - Integrations and use of **Supabase**.
+- Implementation of **S3 storage** with IAM policies, lifecycle rules, and presigned URLs.
 
 ---
 
