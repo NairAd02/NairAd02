@@ -75,7 +75,7 @@ from **functional analysis and architecture**, to **frontend and backend develop
 - Development of **native Java Swing applications** with dynamic and interactive interfaces.  
 - Handling of **files for storage and inter-program communication**.  
 - Application of **data structures and geometric calculations** for educational diagramming tools.  
-- Integration with local databases (MySQL / PostgreSQL).  
+- Integration with local databases (MySQL / PostgreSQL / MongoDB).  
 
 ---
 
