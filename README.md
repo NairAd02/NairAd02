@@ -60,7 +60,7 @@ from **functional analysis and architecture**, to **frontend and backend develop
 
 ## 🧰 Everyday Tools  
 
-- **VS Code / Cursor / Windsurf / Devin** → extensions, snippets, environment configuration and AI usage to accelerate my workflow.  
+- **VS Code / Cursor / Windsurf - Devin** → extensions, snippets, environment configuration and AI usage to accelerate my workflow.  
 - **Postman** → API testing and automation.  
 - **pgAdmin / MySQL Workbench / MongoDB Compass** → database administration and querying.  
 - **Eclipse IDE** → Java development and desktop projects with Swing.  
