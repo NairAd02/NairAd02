@@ -50,7 +50,7 @@ from **functional analysis and architecture**, to **frontend and backend develop
 ## 🐳 DevOps & Infrastructure Skills  
 
 - Deployment of real projects on **VPS (Linux)** with **Dev / Prod** environments.  
-- Use of **Docker and Docker Compose** for containerization and orchestration.  
+- Use of **Docker, Docker Compose and Docker Swarm** for containerization and orchestration.  
 - Configuration of **Nginx as a reverse proxy**, with domain and SSL certificate integration.  
 - **CI/CD with GitHub Actions**, automating build, test and deploy.  
 - Server administration via **SSH (MobaXterm)** and proficiency in **Linux commands**.  
