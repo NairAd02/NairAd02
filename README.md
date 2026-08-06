@@ -65,7 +65,7 @@ from **functional analysis and architecture**, to **frontend and backend develop
 - **pgAdmin / MySQL Workbench / MongoDB Compass** → database administration and querying.   
 - **MobaXterm** → SSH connection and remote server management.  
 - **V0** → visual support and rapid UI generation when no prior design exists.  
-- **Git & GitHub** → versioning, GitHub Actions and professional collaboration.  
+- **Git & GitHub / Gitlab** → versioning, GitHub Actions and professional collaboration.  
 
 ---
 
