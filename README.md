@@ -1,124 +1,76 @@
-# 👋 Hi! I'm Adrian Suarez Padrón  
+<!-- Publish as README.md in NairAd02/NairAd02, alongside assets/github-profile-banner.svg. -->
 
-### 🚀 Full-Cycle Software Architect | Full Stack Developer | DevOps Enthusiast  
+![adrian.dev — From requirements to working software. Design / Build / Ship.](assets/github-profile-banner.svg)
 
-I'm a developer passionate about **designing, building, and deploying complete solutions**, covering the entire software lifecycle:  
-from **functional analysis and architecture**, to **frontend and backend development and production deployment**.
+# Hi, I'm Adrian Suarez Padrón
 
----
+**Software Engineer · Full-Stack Development · Applied AI**  
+Havana, Cuba
 
-## 🧠 About Me  
+I build web applications with **TypeScript, React, Next.js and NestJS**, taking ideas from client requirements through architecture, implementation, deployment and support. My work spans business platforms, external API integrations and AI features with structured outputs and human review.
 
-💡 I believe in **smart design and code simplicity**.  
-💻 I love building scalable, intuitive, and maintainable systems.  
-⚙️ I enjoy both **frontend** work and **backend architecture and logic**.  
-☁️ I have experience deploying real applications in **production environments with Docker and Nginx**.  
-📘 I enjoy sharing knowledge.
+[Explore my portfolio](https://adrian-dev-app.vercel.app/en) · [Portfolio en español](https://adrian-dev-app.vercel.app/es) · [Get in touch](mailto:adrian.suarez.alphen@gmail.com)
 
----
+## Selected work
 
-## 🎨 Frontend Skills  
+### Business applications
 
-- Building **intuitive, responsive, and user-friendly interfaces**.  
-- Pixel-perfect **replication of designs from Figma or similar tools**.  
-- Efficient integration with REST APIs.  
-- Advanced use of **Next.js**:
-  - App Router, **parallel routes and nested modals**.  
-  - **Server Actions**, optimized SEO and hybrid rendering (SSR/SSG/ISR).  
-  - **Container/Presentational pattern** for logic/visual separation.  
-  - Forms with **React Hook Form + Zod**.  
-- Proficiency in **React, TypeScript, Tailwind CSS** and best practices for reusable components.
-- Authentication with **Better-Auth**.  
+- **Telepresence Management & Billing** — Co-developed a production platform with another developer, connecting an external API to call-based billing, Redis caching, reporting and deployment pipelines. **NestJS · Next.js · PostgreSQL · Redis**
+- **DevOps Fleet Dashboard** — Co-developed an internal Docker fleet dashboard with scheduled cleanup, persistent background jobs, role-based permissions and audit trails. **Next.js · Prisma · PostgreSQL · Docker**
+- **[Perfumes del Puro](https://adrian-dev-app.vercel.app/en/projects/perfumes-del-puro)** — Built and launched a storefront, administration panel and API for products, stock and orders; deployed to a VPS with Docker, Nginx and GitHub Actions. **Next.js · NestJS · PostgreSQL**
+- **[Item Custody & Intake](https://adrian-dev-app.vercel.app/en/projects/professional-item-custody-intake-platform)** — Delivered an operational platform in approximately 15 days at NTSprint, including barcode scanning, thermal labels and post-launch support. Collaborated on payments and notifications. **Next.js · Supabase**
 
----
+### Applied AI
 
-## ⚙️ Backend Skills  
+- **[TalkFlow](https://adrian-dev-app.vercel.app/en/projects/talkflow)** — Independently designed and built a working demo in one week at NTSprint. Turns recorded conversations into draft customer records and service requests, with source evidence and human review before saving. **AssemblyAI · Groq · Next.js**
+- **[NTS Relay](https://adrian-dev-app.vercel.app/en/projects/nts-relay)** — Built a WhatsApp intake platform with AI extraction, explicit confirmation, operator handoff and recoverable background processing. Tested in controlled scenarios; business adoption remains pending. **WhatsApp Cloud API · NestJS · BullMQ**
 
-- Backend development with **Nest.js**, following SOLID principles and applying modular architecture.  
-- Implementation of **microservices** and inter-service communication.  
-- Use of **TypeORM / Prisma / Mongoose** with **PostgreSQL, MySQL and MongoDB**.
-- Use **Redis** for performance optimization, including caching strategies, rate limiting, and session management to improve system efficiency and scalability.
-- Use of **Minio** for file storage.
-- Handling of **pagination, filtering, complex business flows and data relationships**.
-- Authentication with **JWT**, roles, guards and advanced security.  
-- Email delivery with **Nodemailer**, documentation with **Swagger**, and **Cron Job** management.
-- Integrations and use of **Supabase**.
-- Implementation of **S3 storage** with IAM policies, lifecycle rules, and presigned URLs.
+Explore the [full project collection and technical write-ups](https://adrian-dev-app.vercel.app/en#projects) for architecture, screenshots and my contributions.
 
----
+## Technologies I work with
 
-## 🐳 DevOps & Infrastructure Skills  
+| Area | Main tools |
+| --- | --- |
+| Frontend | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
+| Backend & data | Node.js, NestJS, PostgreSQL, Supabase, Prisma, TypeORM, Redis, BullMQ |
+| AI & integrations | Vercel AI SDK, Groq, AssemblyAI, MCP, REST APIs, WhatsApp Cloud API, webhooks |
+| Delivery & quality | Docker, Docker Swarm, Linux, Nginx, GitHub Actions, GitLab CI/CD, Vitest, Jest |
 
-- Deployment of real projects on **VPS (Linux)** with **Dev / Prod** environments.  
-- Use of **Docker, Docker Compose and Docker Swarm** for containerization and orchestration.  
-- Configuration of **Nginx as a reverse proxy**, with domain and SSL certificate integration.  
-- **CI/CD with GitHub Actions**, automating build, test and deploy.  
-- Server administration via **SSH (MobaXterm)** and proficiency in **Linux commands**.  
-- Management of environment variables, security and basic monitoring.  
+## Experience
 
----
+| Role | Organization | Period |
+| --- | --- | --- |
+| Software Engineer | NTSprint | Dec 2025 – Nov 2026 |
+| Full-Stack Developer | Freelance | Jan 2025 – Present |
+| Frontend Developer | Medialityc | Sep 2024 – Jun 2025 |
+| Programming Instructor | CUJAE | Sep 2022 – Present |
 
-## 🧰 Everyday Tools  
+At Medialityc, I worked on an established e-commerce platform, contributing storefront pages, payment flows and the first backoffice modules. At NTSprint, I also contributed scheduling and geolocation features to a production multi-tenant SaaS application, plus dashboards and fixes to an Odoo platform.
 
-- **VS Code / Cursor / Windsurf - Devin** → extensions, snippets, environment configuration and AI usage to accelerate my workflow.  
-- **Postman** → API testing and automation.  
-- **pgAdmin / MySQL Workbench / MongoDB Compass** → database administration and querying.   
-- **MobaXterm** → SSH connection and remote server management.  
-- **V0** → visual support and rapid UI generation when no prior design exists.  
-- **Git & GitHub / Gitlab** → versioning, GitHub Actions and professional collaboration.  
+## How I work
 
----
+- **Start with the problem.** Clarify users, requirements and delivery constraints before choosing the architecture.
+- **Build for maintenance.** Use typed interfaces, modular code, explicit validation and documented decisions.
+- **Make AI work inspectable.** Use structured outputs, source evidence and human confirmation where the workflow requires it.
+- **Verify before shipping.** Pair AI-assisted development and specification-driven workflows with automated tests and code review.
 
-## 💻 Desktop Applications  
+<details>
+<summary>Teaching, education & personal projects</summary>
 
-- Development of **native Java Swing applications** with dynamic and interactive interfaces.  
-- Handling of **files for storage and inter-program communication**.  
-- Application of **data structures and geometric calculations** for educational diagramming tools.  
-- Integration with local databases (MySQL / PostgreSQL / MongoDB).  
+I hold a **degree in Computer Engineering from CUJAE (2022–2025)**, where I teach introductory programming and object-oriented design and programming. My teaching and academic work includes **Java, C/C++, data structures and educational desktop tools**.
 
----
+I received an **Outstanding Award at CUJAE's 2023 Scientific Conference** for a UML class diagram tool.
 
-## 🧩 Architecture & Software Design  
+- **[Portfolio Maker repository](https://github.com/NairAd02/portfolio-maker)** — A personal MVP for managing portfolios, projects, experience and credentials with Next.js and Supabase.
+- **[UML class diagram tool repository](https://github.com/NairAd02/Proyecto-UMLCD)** — An educational Java project connecting software design and teaching.
+- **Research and experiments** — MCP integrations, a custom OpenSpec development harness, microservice communication and workflow automation.
 
-**Role:** *Full-Cycle Software Architect*  
+**Languages:** Spanish for day-to-day work; English for technical reading and writing.
 
-- Analysis and documentation of **functional and technical requirements**.  
-- Design of **scalable and maintainable architectures**, from monoliths to microservices.  
-- Creation of **relational and non-relational data models**.  
-- Elaboration of **functional, architecture and deployment diagrams** using **Draw.io** and **Enterprise Architect**.  
-- Application of **architectural patterns** (Clean Architecture, DDD, MVC).  
+</details>
 
----
+## Let's work together
 
-## 🧠 Programming Languages  
+Available for **full-stack development, freelance projects and programming teaching or mentoring**.
 
-| Language | Level | Areas of Expertise |
-|-----------|--------|------------------|
-| **JavaScript / TypeScript** | ⭐⭐⭐⭐⭐ | Fullstack (Next.js, Nest.js), async, typing, SOLID principles |
-| **Java** | ⭐⭐⭐⭐ | Advanced OOP, data structures, Java Swing, file handling, design patterns |
-| **C / C++** | ⭐⭐⭐ | Dynamic memory, data structures, algorithmization, low-level |
-
-In all of them I apply **SOLID principles**, **clean code** and **design patterns** to create **robust, scalable and readable software**.
-
----
-
-## 🧩 Work Philosophy  
-
-> "Good software doesn't just work — **it's also understandable, scalable, and enjoyable to build.**"
-
-- ✨ I seek **elegance and simplicity in architecture**.  
-- 🧱 I believe in solid fundamentals before shortcuts.  
-- 🤝 I collaborate with a team mindset, clear communication and consistent documentation.  
-- 🔁 I'm always iterating, learning and improving every line of code.
-
----
-
-## 📫 Let's Connect  
-
-🌐 [Portfolio](https://asura-portfolio.vercel.app/)  
-📧 **adrian.suarez.alphen@gmail.com**  
-
----
-
-⭐ *If you're interested in collaborating or just want to chat about architecture, clean code or full-stack development, reach out!* 🚀
-
+Tell me what you're building: [adrian.suarez.alphen@gmail.com](mailto:adrian.suarez.alphen@gmail.com).
