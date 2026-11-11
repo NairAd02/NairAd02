@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">adrian.dev — From requirements to working software.</title>
+  <desc id="desc">Design / Build / Ship. An ivory editorial banner with terracotta lettering and green architectural linework, matching Adrian's portfolio.</desc>
+  <rect width="1200" height="360" rx="20" fill="#F4F0E9"/>
+  <rect x="1" y="1" width="1198" height="358" rx="19" stroke="#D5D5C9"/>
+  <path d="M52 54H82" stroke="#A6422B" stroke-width="4"/>
+  <text x="96" y="61" fill="#A6422B" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="1">adrian.dev</text>
+  <text x="52" y="148" fill="#1C3035" font-family="Georgia, 'Times New Roman', serif" font-size="56">From requirements</text>
+  <text x="52" y="214" fill="#A6422B" font-family="Georgia, 'Times New Roman', serif" font-size="56">to working software.</text>
+  <path d="M52 263H702" stroke="#D5D5C9"/>
+  <g fill="#2E6B63" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2">
+    <text x="52" y="309">DESIGN</text>
+    <text x="208" y="309">BUILD</text>
+    <text x="348" y="309">SHIP</text>
+  </g>
+  <path d="M165 294L156 313M305 294L296 313" stroke="#A6422B" stroke-width="2"/>
+  <g transform="translate(790 35) scale(.53)">
+    <path d="M96 24H456V392L312 536H24V168L96 96V24Z" fill="#D9E5DC"/>
+    <path d="M96 96V24H456V392L312 536H24V168L96 96Z" stroke="#2E6B63" stroke-width="2" stroke-opacity=".5"/>
+    <path d="M24 168H312V536M312 168L456 24M312 392H456" stroke="#2E6B63" stroke-width="2" stroke-opacity=".4"/>
+    <path d="M72 200V144H128M344 448H400V392" stroke="#A6422B" stroke-width="4"/>
+    <path d="M84 24H108M96 12V36M300 536H324M312 524V548" stroke="#2E6B63" stroke-width="2"/>
+  </g>
+</svg>
